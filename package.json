@@ -1,7 +1,7 @@
 {
   "name": "nodejs_pckg",
   "repository": {"type": "git" , "URL": "git://github.com/vishwasnm2/nodejs_pckg.git"},
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "A sample Node.js app using Express 4",
   "main": "index.js",
   "scripts": {
