@@ -1,0 +1,24 @@
+{
+  "name": "node-js-sample",
+  "repository": {"type": "git" , "URL": "git://github.com/vishwasnm2/node-js-sample.git"},
+  "version": "0.2.1",
+  "description": "A sample Node.js app using Express 4",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "engines": {
+    "node": "4.0.0"
+  },
+  "author": "Mark Pundsack",
+  "contributors": [
+    "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)"
+  ],
+  "license": "MIT",
+"publishConfig": {
+    "registry":"https://npm.pkg.github.com/@vishwasnm2"
+  }
+}
